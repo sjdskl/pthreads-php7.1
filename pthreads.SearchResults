@@ -1,0 +1,9 @@
+---- Threaded_extend Matches (2 in 1 files) ----
+Threaded.h (classes):76
+ZEND_BEGIN_ARG_INFO_EX(Threaded_extend, 0, 0, 1)
+    ZEND_ARG_INFO(0, class)
+ZEND_END_ARG_INFO()
+Threaded.h (classes):113
+	PHP_ME(Threaded, extend, Threaded_extend, ZEND_ACC_PUBLIC|ZEND_ACC_STATIC)
+	{NULL, NULL, NULL}
+};
